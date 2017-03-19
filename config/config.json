@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Carlos",
+    "password": null,
+    "database": "spotify",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Carlos",
+    "password": null,
+    "database": "spotify",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Carlos",
+    "password": null,
+    "database": "spotify",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
